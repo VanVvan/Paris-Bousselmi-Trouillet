@@ -1,5 +1,8 @@
 # Paris-Bousselmi-Trouillet
 
+trouillet / krief / mouanack / wandjiariane / 
+
+
 Les consignes pour ce projet sont assez basiques, on est totalement libre tant qu'on fait quelques chose de "financier". 
 
 Apres quelquers reflexions je me suis penchés sur les données on-chain de Bitcoin. 
