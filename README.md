@@ -1,6 +1,6 @@
 # Paris-Bousselmi-Trouillet
 
-trouillet / krief / mouanack / wandjiariane / 
+trouillet / krief / mouanack / wandjiariane / Roulot 
 
 
 Les consignes pour ce projet sont assez basiques, on est totalement libre tant qu'on fait quelques chose de "financier". 
