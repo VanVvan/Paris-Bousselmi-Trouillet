@@ -25,3 +25,9 @@ WANDJI
 
 #toujours test 
 
+#c'est tjrs un ptn de test 
+
+import seaborn as sns
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as 
